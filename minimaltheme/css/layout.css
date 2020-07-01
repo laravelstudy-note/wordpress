@@ -1,0 +1,18 @@
+body {
+	display: flex;
+	flex-wrap: wrap;  
+	margin:0;
+	padding:0;
+}
+
+main {
+	flex: 1;  
+}
+
+aside {
+	flex: 0 0 200px; 
+}
+
+footer {
+	width: 100%;
+}

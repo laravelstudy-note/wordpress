@@ -1,0 +1,6 @@
+/* 表示側のCSSとエディター側のCSS両方を書く */
+.editor-styles-wrapper h2 {
+	border-bottom: solid 1px rgba(0,0,0,0.5);
+	border-left: solid 20px red;
+	padding-left: 10px;
+}
